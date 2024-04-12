@@ -22,4 +22,4 @@ The goal of this edition is to keep Pro Git relevant for new users amidst these 
 * **Appendices:** Git in various environments (GUIs, IDEs), scripting Git, and a command reference.
 
 ## Table of Contents
-
+* [Chapter 01. Getting Started](./Chapter%2001.%20Getting%20Started/README.md)
